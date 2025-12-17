@@ -20,6 +20,8 @@
 > The project combines **Python-based analysis** with a **Power BI executive dashboard**, translating behavioural data  
 > into actionable insights for tutors, course designers, and academic managers.
 
+> It is designed to mirror how a data analyst or business analyst would investigate retention problems in a real educational platform.
+
 ---
 
 ## <img src="icons/objectives.png" width="30">  &nbsp;&nbsp;Objectives
@@ -41,7 +43,8 @@
   Click volume, active days, early vs. late engagement, inactivity gaps.
 
 - **Correlation & Feature Screening:**  
-  Numeric correlation analysis and baseline Random Forest feature importance.
+  Numeric correlation analysis and baseline feature importance to identify relevant behavioural signals.
+
 
 - **Engagement Funnel:**  
   Tracking progression from *Registered → Active → Consistent → Completed* to identify critical drop-off points.
@@ -53,8 +56,7 @@
   K-means clustering to identify low, moderate, and high engagement profiles.
 
 - **Outcome Mapping:**  
-  Linking engagement clusters to withdrawal, failure, pass, and distinction rates.
-
+  Linking engagement clusters to withdrawal, failure, pass, and distinction rates to support targeted intervention strategies.
 ---
 
 ## <img src="icons/dataset.png" width="30">  &nbsp;&nbsp;Dataset
@@ -141,6 +143,9 @@ Available in the [`PowerBI/`](PowerBI/) folder (requires Power BI Desktop).
 
 ---
 
+This project was inspired by personal experience in online education and reflects a strong interest in using data to improve learning experiences and retention outcomes.
+
+---
 <p align="center">
   <sub>📊 Designed & developed by <b>Marcela Maris</b> — Data Analytics Portfolio</sub><br>
   <sub><i>Learning Analytics • Retention Modelling • Behavioural Insights</i></sub>
