@@ -22,7 +22,7 @@
 
 ---
 
-## <img src="docs/icons/objectives.svg" width="30">  &nbsp;&nbsp;Objectives
+## <img src="docs/icons/Objectives.png" width="30">  &nbsp;&nbsp;Objectives
 
 - Analyse **dropout and retention patterns** in large-scale online learning.
 - Identify **early disengagement signals** using behavioural and temporal features.
@@ -32,7 +32,7 @@
 
 ---
 
-## <img src="docs/icons/features.svg" width="30">  &nbsp;&nbsp;Key Analyses & Features
+## <img src="docs/icons/Features.png" width="30">  &nbsp;&nbsp;Key Analyses & Features
 
 - **Exploratory Data Analysis (EDA):**  
   Demographic, academic, and socioeconomic patterns related to student outcomes.
@@ -57,7 +57,7 @@
 
 ---
 
-## <img src="docs/icons/dataset.svg" width="30">  &nbsp;&nbsp;Dataset
+## <img src="docs/icons/Dataset.png" width="30">  &nbsp;&nbsp;Dataset
 
 **Source:**  
 Open University Learning Analytics Dataset (OULAD)  
@@ -81,7 +81,8 @@ If raw data are missing, the notebook raises a clear `FileNotFoundError` explain
 
 ---
 
-## <img src="docs/icons/dashboard.svg" width="30">  &nbsp;&nbsp;Interactive Dashboard
+## <img src="docs/icons/dashboard.png" width="30">  &nbsp;&nbsp;Interactive Dashboard
+
 
 The analytical results are summarised in a **single-page Power BI dashboard**, designed for non-technical stakeholders.
 
@@ -104,7 +105,7 @@ Available in the [`PowerBI/`](PowerBI/) folder (requires Power BI Desktop).
 
 ---
 
-## <img src="docs/icons/conclusions.svg" width="30">  &nbsp;&nbsp;Key Insights
+## <img src="docs/icons/Conclusions.png" width="30">  &nbsp;&nbsp;Key Insights
 
 - **Dropout is heavily front-loaded:**  
   Most disengagement happens within the first weeks of the module.
@@ -120,7 +121,7 @@ Available in the [`PowerBI/`](PowerBI/) folder (requires Power BI Desktop).
 
 ---
 
-## <img src="docs/icons/impact.svg" width="30">  &nbsp;&nbsp;Business & Educational Impact
+## <img src="docs/icons/Impact.png" width="30">  &nbsp;&nbsp;Business & Educational Impact
 
 - Enables **early identification of at-risk students**.
 - Supports **targeted, data-driven interventions**.
@@ -129,7 +130,7 @@ Available in the [`PowerBI/`](PowerBI/) folder (requires Power BI Desktop).
 
 ---
 
-## <img src="docs/icons/techstack.svg" width="30">  &nbsp;&nbsp;Tech Stack
+## <img src="docs/icons/Tech Stack.png" width="30">  &nbsp;&nbsp;Tech Stack
 
 - **Languages & Libraries:** Python (3.10), Pandas, NumPy, Matplotlib, Seaborn  
 - **Machine Learning:** Scikit-learn (Random Forest, K-Means)  
