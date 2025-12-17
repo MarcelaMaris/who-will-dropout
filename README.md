@@ -19,6 +19,7 @@
 >
 > The project combines **Python-based analysis** with a **Power BI executive dashboard**, translating behavioural data  
 > into actionable insights for tutors, course designers, and academic managers.
+> 
 > It is designed to mirror how a data analyst or business analyst would investigate retention problems in a real educational platform.
 
 ---
