@@ -61,7 +61,7 @@
 
 **Source:**  
 Open University Learning Analytics Dataset (OULAD)  
-https://analyse.kmi.open.ac.uk/open_dataset
+[https://analyse.kmi.open.ac.uk/open_dataset](https://analyse.kmi.open.ac.uk/open-dataset)
 
 **Key Tables Used**
 - `studentInfo.csv` — demographics and final results  
