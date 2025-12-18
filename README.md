@@ -2,7 +2,7 @@
   <img src="docs/cover.png" width="100%" alt="Student Dropout Analytics Dashboard cover">
 </p>
 
-## <img src="icons/education.png" width="30">  &nbsp;&nbsp;Who Will Drop Out? — Student Engagement & Retention Analytics
+## <img src="icons/education.png" width="50">  &nbsp;&nbsp;Who Will Drop Out? — Student Engagement & Retention Analytics
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-0A3756?style=flat&logo=python&logoColor=F5F7FA&labelColor=E8AA3A)
