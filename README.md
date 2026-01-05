@@ -83,7 +83,7 @@ If raw data are missing, the notebook raises a clear `FileNotFoundError` explain
 
 ---
 
-## <img src="icons/dashboard.png" width="30">  &nbsp;&nbsp;Interactive Dashboard
+## <img src="icons/dashboard.png" width="30">  &nbsp;&nbsp;Interactive Dashboard and Presentation
 
 
 The analytical results are summarised in a single-page Power BI dashboard and an executive-level presentation designed for non-technical stakeholders.
@@ -106,7 +106,7 @@ The analytical results are summarised in a single-page Power BI dashboard and an
 Available in the [`PowerBI/`](PowerBI/) folder (requires Power BI Desktop).
 
 **Executive Presentation (PDF):**    
-[Open presentation](Student_Dropout_Analytics_Executive_Presentation.pdf)
+[Presentation](https://github.com/MarcelaMaris/who-will-dropout/blob/main/Student_Dropout_Analytics_Executive_Presentation.pdf)
 
 ---
 
