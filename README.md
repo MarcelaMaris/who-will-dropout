@@ -86,7 +86,7 @@ If raw data are missing, the notebook raises a clear `FileNotFoundError` explain
 ## <img src="icons/dashboard.png" width="30">  &nbsp;&nbsp;Interactive Dashboard
 
 
-The analytical results are summarised in a **single-page Power BI dashboard**, designed for non-technical stakeholders.
+The analytical results are summarised in a single-page Power BI dashboard and an executive-level presentation designed for non-technical stakeholders.
 
 ### Dashboard structure
 1. **How many students stay vs. leave?**  
@@ -104,6 +104,9 @@ The analytical results are summarised in a **single-page Power BI dashboard**, d
 
 **Power BI interactive file (.pbix):**  
 Available in the [`PowerBI/`](PowerBI/) folder (requires Power BI Desktop).
+
+**Executive Presentation (PDF):**    
+[Open presentation](Student_Dropout_Analytics_Executive_Presentation.pdf)
 
 ---
 
