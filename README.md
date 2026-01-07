@@ -100,7 +100,7 @@ The analytical results are summarised in a single-page Power BI dashboard and an
    Engagement clusters linked to academic outcomes, revealing that consistency — not intensity — drives success.
 
 **Dashboard (PDF – static version):**  
-[Download Dashboard (PDF)](docs/dashboard/Who_Will_Drop_Out_Dashboard.pdf)
+[Download Dashboard (PDF)](https://github.com/MarcelaMaris/who-will-dropout/blob/main/docs/Who_Will_Drop_Out_Dashboard.pdf)
 
 **Power BI interactive file (.pbix):**  
 Available in the [`PowerBI/`](PowerBI/) folder (requires Power BI Desktop).
