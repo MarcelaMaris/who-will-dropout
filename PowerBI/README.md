@@ -10,4 +10,4 @@ Requires **Power BI Desktop** to open.
 ### 🔹 Static executive version (PDF)
 Preview-friendly version for quick review (no Power BI required):
 
-📄 [Download Dashboard (PDF)](../docs/dashboard/Who_Will_Drop_Out_Dashboard.pdf)
+📄 [Download Dashboard (PDF)](https://github.com/MarcelaMaris/who-will-dropout/blob/main/docs/Who_Will_Drop_Out_Dashboard.pdf)
