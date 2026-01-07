@@ -103,7 +103,7 @@ The analytical results are summarised in a single-page Power BI dashboard and an
 [Download Dashboard (PDF)](https://github.com/MarcelaMaris/who-will-dropout/blob/main/docs/Who_Will_Drop_Out_Dashboard.pdf)
 
 **Power BI interactive file (.pbix):**  
-Available in the [`PowerBI/`](PowerBI/) folder (requires Power BI Desktop).
+Available in the [`PowerBI/`](https://github.com/MarcelaMaris/who-will-dropout/blob/main/PowerBI/Who_Will_Drop_Out_Student_Retention_PowerBI_final.pbix) folder (requires Power BI Desktop).
 
 **Executive Presentation (PDF):**    
 [Presentation](https://github.com/MarcelaMaris/who-will-dropout/blob/main/Student_Dropout_Analytics_Executive_Presentation.pdf)
