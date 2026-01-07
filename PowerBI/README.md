@@ -4,7 +4,7 @@ This project includes a Power BI dashboard developed to monitor student retentio
 engagement patterns, and early dropout risk.
 
 ### 🔹 Interactive Power BI file (.pbix)
-Available in this folder.  
+Available in this folder: (https://github.com/MarcelaMaris/who-will-dropout/blob/main/PowerBI/Who_Will_Drop_Out_Student_Retention_PowerBI_final.pbix)  
 Requires **Power BI Desktop** to open.
 
 ### 🔹 Static executive version (PDF)
